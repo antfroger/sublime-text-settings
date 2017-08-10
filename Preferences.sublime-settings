@@ -9,6 +9,7 @@
     "highlight_modified_tabs": true,
     "ignored_packages": [],
     "rulers": [80, 120],
+    "save_on_focus_lost": true,
     "status_bar_brighter": true,
     "tab_size": 4,
     "tabs_padding_medium": true,
