@@ -1,7 +1,7 @@
 {
-    "color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
     "bold_folder_labels": true,
     "caret_style": "phase",
+    "color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
     "dictionary": "Packages/Language - English/en_US.dic",
     "ensure_newline_at_eof_on_save": true,
     "font_size": 12,
@@ -10,6 +10,7 @@
     "ignored_packages": [],
     "rulers": [80, 120],
     "save_on_focus_lost": true,
+    "scroll_past_end": true,
     "status_bar_brighter": true,
     "tab_size": 4,
     "tabs_padding_medium": true,
