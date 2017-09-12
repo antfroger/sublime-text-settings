@@ -12,6 +12,8 @@
 		"Package Control",
 		"ReactJS",
 		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
 		"Theme - Afterglow"
 	]
 }
